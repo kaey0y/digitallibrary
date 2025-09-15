@@ -6,7 +6,16 @@ Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 
 1. [Di Tanah Lada](ebook/Di Tanah Lada (SFILE.MOBI).pdf) - Ziggy Zezsyazeoviennazabrizkie (2015)
-2. Contoh buku lain
+2. [Keajaiban Toko Kelontong Namiya](ebook/Toko Kelontong Namiya.pdf) - Keigo Higashino (2020)
+3. [Jakarta Sebelum Pagi](ebook/Jakarta Sebelum Pagi.pdf) - Ziggy Zezsyazeoviennazabrizkie (2017)
+4. [Perempuan di Titik Nol](ebook/Perempuan di Titik Nol  Nawal El-Saadawi.pdf) - Nawal El Saadawi (2002)
+5. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2010)
+6. [Parable](ebook/Parable.pdf)
+7. [Sisi Tergelap Surga](ebook/Sisi Tergelap Surga.pdf) - Brian Khrisna (2023)
+8. [The Lost Library](ebook/The Lost Library.pdf] - Rebecca Stead (2023)
+9. [The Midnight Library](ebook/The Midnight Library.pdf] - Matt Haig (2020)
+10. [Aroma Karsa](ebook/Aroma Karsa.pdf) - Dee Lestari (2008)
+11. [Resume](ebook/Kayla Shakura Putri Ardin_13040123120015_Resume.pdf) - Kayla Shakura Putri Ardin 015
 
 ---
 
