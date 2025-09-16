@@ -20,7 +20,4 @@ Berikut ini adalah koleksi yang dimiliki:
 ---
 
 *Powered ny GitHub Pages*
-https://kaey0y.github.io/digitallibrary/webti/halaman1.html
-https://kaey0y.github.io/digitallibrary/webti/halaman2.html
-https://kaey0y.github.io/digitallibrary/webti/halaman3.html
-https://kaey0y.github.io/digitallibrary/webti/halaman4.html
+[Halaman 1](webti/https://kaey0y.github.io/digitallibrary/webti/halaman1.html)
