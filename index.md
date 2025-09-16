@@ -23,6 +23,7 @@ Berikut ini adalah koleksi yang dimiliki:
 <a href="webti/halaman3.html"> Halaman 3 </a>|
 <a href="webti/halaman4.html"> Halaman 4 </a>|
 <a href="webti/halaman5.html"> Halaman 5 </a>|
+<a href="webti/halaman6.html"> Halaman 6 </a>|
 
 *Powered ny GitHub Pages*
 
