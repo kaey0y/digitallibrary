@@ -18,6 +18,7 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Resume](ebook/Kayla Shakura Putri Ardin_13040123120015_Resume.pdf) - Kayla Shakura Putri Ardin 015
 
 ---
+<a href="webti/halaman1.html"> Halaman 1</a>|
 
 *Powered ny GitHub Pages*
-[Halaman 1](webti/https://kaey0y.github.io/digitallibrary/webti/halaman1.html)
+
